@@ -79,7 +79,8 @@ This project was developed as part of the **CRISIL Hackathon** by team members *
 ---
 
 ## Contributors
-- **S Akash**  
+- **S Akash**
+- **Izhaan Khan**
 - **Ammar Ahmad**  
 
 ---
