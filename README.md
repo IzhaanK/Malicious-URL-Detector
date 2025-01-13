@@ -1,7 +1,7 @@
 # Malicious URL Detection
 
 ## Project Overview
-This project was developed as part of the **CRISIL Hackathon** by team members **S Akash** and **Ammar Ahmad**. It is designed to detect malicious URLs to safeguard users from phishing attacks. The system leverages **BERT** and **MLP-based** models for URL classification and integrates with a browser extension to provide real-time protection.
+This project was developed as part of the **CRISIL Hackathon** by team members **Izhaan Khan** ,**S Akash** and **Ammar Ahmad**. It is designed to detect malicious URLs to safeguard users from phishing attacks. The system leverages **BERT** and **MLP-based** models for URL classification and integrates with a browser extension to provide real-time protection.
 
 ---
 
